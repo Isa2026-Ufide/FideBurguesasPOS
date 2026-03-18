@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Usuario.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Cajero.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Sucursal.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Producto.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Combo.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/LineaOrden.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Orden.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/model/Factura.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/repository/DataStore.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/service/AuthService.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/CajeroFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/CocinaFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/main/Main.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/util/GeneradorFacturaTXT.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/util/Serializador.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/enums/Rol.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/enums/EstadoOrden.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/enums/MetodoPago.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/NuevaOrdenFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/FacturarOrdenFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/FacturacionFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/AdminFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/GestionCajerosFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/ui/OrdenesActivasFrame.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/FideBurguesasPOS/src/fideburguesas/util/HashUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
