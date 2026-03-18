@@ -27,3 +27,6 @@ Características del sistema
 - Serialización de datos
 
 Mejoras en documentación del proyecto
+Actualización README
+Corrección documentación
+Mejoras en explicación del sistema
