@@ -1,3 +1,4 @@
+Pasos
 1. Abrir NetBeans
 2. Abrir proyecto FideBurguesasPOS
 3. Ejecutar clase Main.java
@@ -17,3 +18,12 @@ Contraseña: 123
 Cocina
 Usuario: cocina
 Contraseña: 123
+
+Características del sistema
+- Gestión de usuarios
+- Creación de órdenes
+- Monitor de cocina
+- Facturación
+- Serialización de datos
+
+Mejoras en documentación del proyecto
