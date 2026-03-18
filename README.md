@@ -1,4 +1,7 @@
-Accesos
+1. Abrir NetBeans
+2. Abrir proyecto FideBurguesasPOS
+3. Ejecutar clase Main.java
+4. Accesos
 Administrador
 Usuario: admin
 Contraseña: 123
